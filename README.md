@@ -7,8 +7,9 @@
 
 <h2>Functionalities</h2>
 <ul>
-	<li>Play quiz</li>
-	<li>Challenge a friend</li>
+	<li>Authentication with Google Play if possible</li>
+	<li>Play Quiz</li>
+	<li>Challenge a Friend</li>
 	<li>Use a unique code to give a specifice quiz</li>
 </ul>
 
