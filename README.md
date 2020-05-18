@@ -1,49 +1,37 @@
-<p align="left">
-	<img width="240" src="https://raw.githubusercontent.com/dsckiet/resources/master/dsckiet-logo.png" />
-	<h2 align="left"> Quiz App - CSEDSE0S4 </h2>
-	<h4 align="left"> < ADD PROJECT DESCRIPTION > <h4>
-</p>
+
+<img width="240" src="https://raw.githubusercontent.com/dsckiet/resources/master/dsckiet-logo.png" />
+<h2 align="left"> Quiz App - CSEDSE0S4 </h2>
+<h4 align="left"> Online quiz app that can be used to play around with your friends.</h4>
 
 ---
-[![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=for-the-badge&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
-  [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=for-the-badge&logo=appveyor)](INSERT_UI_LINK_HERE)
 
+<h2>Functionalities</h2>
+<ul>
+	<li>Play quiz</li>
+	<li>Challenge a friend</li>
+	<li>Use a unique code to give a specifice quiz</li>
+</ul>
 
-## Functionalities
-- [ ]  < ADD FUNCTIONALITY >
-- [ ]  < ADD FUNCTIONALITY >
+<br/>
 
-<br>
+<h2>Pre-requisites</h2>
 
+<ul>
+	<li>Basic Programming knowledge</li>
+	<li>Willingness to learn kotlin or flutter</li>
+	<li>Basic knowledge of HTTP requests</li>
+</ul>
 
-## Instructions to run
+<br/>
 
-* Pre-requisites:
-	-  < add pre-requisite >
-	-  < add pre-requisite >
+<h2>Contributors</h2>
 
-* Directions to setup/install
-```bash
-< insert code >
-```
-
-* Directions to execute
-
-```bash
-< insert code >
-```
-
-<br>
-
-## Contributors
-
-* [ < ADD YOUR NAME > ](ADD_PROFILE_URL_HERE)
-
-
+<ul>
+	<li>Principle Coordinator: PROF. SANJIV SHARMA</li>
+	<li>Project Coordinator: PROF.SHIKHA GAUTAM</li>
+	<li>Mentor: SHUBHAM GOSWAMI</li>
+</ul>
 
 <br>
-<br>
 
-<p align="center">
-	Made during 🌙 by DSC KIET
-</p>
+By DSC KIET in association with Department of Computer Science
